@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(242, 210, 255, 0.767);
+   }
+   h1 {
+    color: rgb(0, 92, 92);
+    text-align: center;
+   }
+   p {
+   color:rgb(43, 174, 226);
+    font-family: verdana;
+    font-size: 20px;
+   }
+   div{
+    color:rgba(4, 170, 129, 0.541);
+    font-family: verdana;
+    font-size: 20px;
+    border-style: solid;
+        padding: 10px 10px 2px 2px;
+        border-width: 0.5px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+        background-color: rgb(185, 238, 255);
+        border-radius: 20px;
+        padding: 20px;
+        margin: 10px;
+        height: 20px;
+   }

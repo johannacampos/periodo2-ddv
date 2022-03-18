@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+.stylo {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(253, 143, 143);
+    background-image: url(img/paperplane.gif);
+        border: 10px solid rgb(253, 143, 143);
+        border-radius: 20px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+   }
+   p{
+    font-family: 'Noto Serif', serif;
+    color: darkblue;
+    background-color: aqua;
+        border: 10px solid rgb(145, 143, 253);
+        border-radius: 20px;
+  width: 400px;
+  padding: 20px;
+  margin: 20px;
+   }
+   .estilo {
+    font-family: 'Noto Serif', serif;
+    color: rgb(88, 88, 168);
+    background-image: (url"img/paper.gig");
+    background-color: rgb(231, 255, 214);
+        border: 5px solid rgb(51, 117, 92);
+        border-radius: 20px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px; 
+   }
+   h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(88, 88, 168);  
+   }
+   h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(134, 134, 209);  
+   }

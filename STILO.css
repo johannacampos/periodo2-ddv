@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+.STILO {
+    color: darkblue;
+    background-image: (url"img/paper.gig");
+    font-family: 'Noto Serif', serif;
+    text-align: left;
+    direction:ltr; 
+    text-decoration:underline;
+    text-transform:capitalize;
+    text-indent: 50px;
+    letter-spacing: 4px;
+    line-height: 1.8;
+    word-spacing: 2px;
+    white-space:pre-line; 
+    text-shadow: 1px 2px 5px rgb(255, 0, 0); 
+   }
